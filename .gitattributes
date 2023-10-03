@@ -1,8 +1,2 @@
 *.dart linguist-detectable=true
-*.cpp linguist-detectable=false
-*.csharp linguist-detectable=false
-*.java linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-CMakeLists.txt linguist-detectable=false
+* linguist-detectable=false
